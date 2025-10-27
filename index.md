@@ -11,7 +11,7 @@ Group 5
 
 Section: Project Overview
 
-##hhh Project Theme
+Project Theme
 
 We built an AI assistant for emotional support in disaster/war-time scenarios, helping affected people receive immediate calming guidance and safety tips amid high stress and information chaos.
 
