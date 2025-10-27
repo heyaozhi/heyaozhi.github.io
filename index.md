@@ -64,6 +64,26 @@ Conducted two user interviews: one participant in Ukraine and one in Syria.
 Designed the interview guide with targeted questions about emotional needs, information access, privacy concerns, and preferred interaction style under stress.
 Synthesized findings into concise themes (panic triggers, short/slow guidance preference, need for verifiable information and human escalation) to inform the dialogue flow and design principles.
 
+POV — Team Work Overview
+
+Defined three POV directions from user research:
+AI psychological-support agent (voice/text, offline-capable, cultural/age/language adaptation, risk detection/SOS).
+Calm dispatcher for step-by-step safety guidance with transparent information sources.
+Family searching/matching support with flexible follow-ups.
+Wrote one-sentence POV statements for each direction and ran speed-dating interviews to validate need and feasibility.
+Consolidated stakeholder feedback and selected Idea 1 (psychological-support agent) as the primary POV.
+
+POV — My Personal Contribution
+
+Participated in ideation for all three ideas and drafted the POV statements for Ideas 1–3.
+Conducted speed-dating interviews and captured insights; specifically synthesized feedback from a Ukrainian girl and a Syrian girl.
+Analyzed their needs (compassionate support, offline availability, cultural/language sensitivity, privacy/safety) and recommended adopting Idea 1 as the main POV.
+
+
+
+
+
+
 
 
 
