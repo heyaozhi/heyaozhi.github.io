@@ -115,7 +115,7 @@ AI tools were used in this project to assist with idea refinement, wording of di
 
 Other Contributions
 
-Built the presentation PPT structure and contributed part of the slide content.
+Proposed many ideas during various group discussions. Built the presentation PPT structure and contributed part of the slide content.
 
 Reflection
 
