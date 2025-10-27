@@ -1,25 +1,8 @@
-layout: page title: Project 2 Personal Diary — ArtificialHaven permalink: /p2-diary/ author: 你的名字 course: COMP4461 date: 2025-10-27
-摘要
-我们面向战争冲突地区的居民设计了“ArtificialHaven”，提供24/7的心理支持与安全信息。核心为具备文化与年龄敏感的AI治疗师聊天机器人，支持语音/文本与离线LLM；配套界面包含情绪追踪、呼吸练习、治疗空间与日记。4人可用性测试显示总体满意，但用户希望更高的个性化与可靠性。
-
-性、信心/安全、频率、可学习性与一致性。（见 p13）
-结果：易用性/信心/安全≈3.3；不一致性≈2.0；频繁使用≈3.0；可学习性≈3.0。（见 p14）
-反馈与改进：自动滚动、更丰富的呼吸提示、全局语言设置、更柔和的语音、可选聊天人格。（见 p14）
-结果与迭代
-有效性：用户总体满意，核心功能可用。
-迭代方向：提升个性化与鲁棒性，完善语言与滚动体验，增强语音自然度。
-我的个人贡献（请你替换为真实内容）
-我负责：例如对话管线集成、Ollama本地模型配置、风险评估提示词与规则、Streamlit界面实现、测试与数据整理等。
-技术细节：版本、依赖、脚本、关键代码片段。
-难点与突破：例如离线推理速度优化、ASR/TTS稳定性、跨语言支持。
-影响：对用户体验与可靠性的具体提升。
-个人反思
-设计取舍：为什么选择离线LLM与语音支持；如何权衡可靠性与敏感内容安全。
-局限与风险：数据隐私、误识别、文化适配的长期维护。
-下一步计划：扩大测试样本、引入更稳健的风险分级与转介机制、部署到手机端等。
-AI 使用声明
-使用的工具：如 ChatGPT/Copilot/Ollama/GPT-4o。
-用途：构思、代码草拟、提示词优化、评估。
-验证方式：单元测试、手动走查、A/B对比、错误案例复盘。
-参考与致谢
-论文/开源库/教程链接；团队成员与受访者致谢。
+Diary 2 – Human-Robot Interaction for Disaster Management
+HUMAN-ROBOT INTERACTION FOR WAR AFFECTED COMMUNITIE
+Group 5 
+ Hei Ching IU
+ Poon Tsz Hang
+ Wing Yu Chan
+ Yuhua Zhao
+ Yicheng Fen
