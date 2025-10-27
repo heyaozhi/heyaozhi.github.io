@@ -1,4 +1,4 @@
-##Diary 2 – Human-Robot Interaction for Disaster Management
+# Diary 2 – Human-Robot Interaction for Disaster Management
 
 HUMAN-ROBOT INTERACTION FOR WAR AFFECTED COMMUNITIE
 
@@ -9,7 +9,7 @@ Group 5
  Yuhua Zhao
  Yicheng Fen
 
-Section: Project Overview
+## Section: Project Overview
 
 Project Theme
 
@@ -40,7 +40,7 @@ Strengthen offline and multilingual support, improve crisis triage and human esc
 
 
 
-Empathize — Project Overview Section
+## Empathize — Project Overview Section
 
 Overview
 Based on interviews and online research from our presentation, we focus on emotional support and information accessibility in disaster/war contexts: under high stress and uncertainty, users need timely, trustworthy, low-effort calming and clear next-step guidance.
@@ -57,13 +57,13 @@ Vulnerable groups: women and ethnic minorities show higher rates of depression/P
 Design Principle (one sentence)
 Human-centered “short, slow, step-by-step” dialogue with breathing/grounding exercises, providing verifiable-source safety reminders and escalation pathways that work under weak network and privacy constraints.
 
-Personal Contribution (Empathize)
+## Personal Contribution (Empathize)
 
 Conducted two user interviews: one participant in Ukraine and one in Syria.
 Designed the interview guide with targeted questions about emotional needs, information access, privacy concerns, and preferred interaction style under stress.
 Synthesized findings into concise themes (panic triggers, short/slow guidance preference, need for verifiable information and human escalation) to inform the dialogue flow and design principles.
 
-POV — Team Work Overview
+## POV — Team Work Overview
 
 Defined three POV directions from user research:
 AI psychological-support agent (voice/text, offline-capable, cultural/age/language adaptation, risk detection/SOS).
@@ -72,13 +72,13 @@ Family searching/matching support with flexible follow-ups.
 Wrote one-sentence POV statements for each direction and ran speed-dating interviews to validate need and feasibility.
 Consolidated stakeholder feedback and selected Idea 1 (psychological-support agent) as the primary POV.
 
-POV — My Personal Contribution
+## POV — My Personal Contribution
 
 Participated in ideation for all three ideas and drafted the POV statements for Ideas 1–3.
 Conducted speed-dating interviews and captured insights; specifically synthesized feedback from a Ukrainian girl and a Syrian girl.
 Analyzed their needs (compassionate support, offline availability, cultural/language sensitivity, privacy/safety) and recommended adopting Idea 1 as the main POV.
 
-Prototype — Team Work Overview
+## Prototype — Team Work Overview
 
 Scope and positioning: Built a vertical prototype around the primary POV “AI psychological-support agent,” ensuring core conversations and exercises run in real conditions; created lightweight demos for secondary POVs (safety guidance, child mode).
 Core interactions implemented:
@@ -92,12 +92,12 @@ Safety guidance mode: step-by-step routes and shelter hints with transparent sou
 Child mode prototype: gentle voice and short-command scripts, gamified breathing.
 Testing and iteration: invited 4 non-team users for usability trials; collected issues (speech pace, button placement, prompt consistency) and iterated dialogue and UI.
 
-Prototype — My Personal Contribution
+## Prototype — My Personal Contribution
 
 
 Offline implementation: implemented an offline model and resource pack that runs without internet; ensured core conversations and exercises remain usable during disconnection, and completed related testing and demo.
 
-Usability Testing — Team Overview
+## Usability Testing — Team Overview
 
 Objectives: assess usability, comprehension, emotional relief; verify offline reliability.
 Participants & settings: 4 non-team users (2 CN, 1 EN, 1 AR); quiet room, noisy corridor, weak/absent network.
@@ -105,19 +105,19 @@ Tasks: emotion check + empathetic chat (≤2 min); breathing + 5-4-3-2-1 groundi
 Findings: clear UI and instructions; offline works; issues with fast TTS and inconsistent labels; ASR drops in noise—text preferred.
 Improvements: slower TTS + repeat; standardized labels; segmented risk prompts; clearer offline cues.
 
-Usability Testing — My Contribution
+## Usability Testing — My Contribution
 
 Participated in designing the questionnaire (survey item creation).
 
-AI Usage Statement
+## AI Usage Statement
 
 AI tools were used in this project to assist with idea refinement, wording of dialogue scripts, and summarizing testing feedback. Some content (text prompts and draft copies) was AI-generated and then reviewed/edited by the team.
 
-Other Contributions
+## Other Contributions
 
 Proposed many ideas during various group discussions. Built the presentation PPT structure and contributed part of the slide content.
 
-Reflection
+## Reflection
 
 What worked: Short–slow–step-by-step dialogue plus breathing/grounding effectively reduced cognitive load; offline packs and clear source labeling increased trust. Usability tests confirmed the need for slower TTS, consistent labels, and text input in noise.
 
