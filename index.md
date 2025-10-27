@@ -11,7 +11,7 @@ Group 5
 
 Section: Project Overview
 
-Project Theme
+##hhh Project Theme
 
 We built an AI assistant for emotional support in disaster/war-time scenarios, helping affected people receive immediate calming guidance and safety tips amid high stress and information chaos.
 
@@ -54,8 +54,15 @@ Scattered information sources: critical updates are unclear and fragmented, dela
 Family separation and education disruption: intensify stress and hinder long-term recovery (from interviewees/literature).
 Weak connectivity and limited resources: unstable networks and logistic variability require brief, real-time, and offline-capable communication.
 Vulnerable groups: women and ethnic minorities show higher rates of depression/PTSD (literature).
+
 Design Principle (one sentence)
 Human-centered “short, slow, step-by-step” dialogue with breathing/grounding exercises, providing verifiable-source safety reminders and escalation pathways that work under weak network and privacy constraints.
+
+Personal Contribution (Empathize)
+
+Conducted two user interviews: one participant in Ukraine and one in Syria.
+Designed the interview guide with targeted questions about emotional needs, information access, privacy concerns, and preferred interaction style under stress.
+Synthesized findings into concise themes (panic triggers, short/slow guidance preference, need for verifiable information and human escalation) to inform the dialogue flow and design principles.
 
 
 
