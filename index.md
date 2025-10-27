@@ -99,11 +99,22 @@ Offline implementation: implemented an offline model and resource pack that runs
 
 ## Usability Testing — Team Overview
 
-Objectives: assess usability, comprehension, emotional relief; verify offline reliability.
-Participants & settings: 4 non-team users (2 CN, 1 EN, 1 AR); quiet room, noisy corridor, weak/absent network.
-Tasks: emotion check + empathetic chat (≤2 min); breathing + 5-4-3-2-1 grounding; risk/SOS trigger; offline availability.
-Findings: clear UI and instructions; offline works; issues with fast TTS and inconsistent labels; ASR drops in noise—text preferred.
-Improvements: slower TTS + repeat; standardized labels; segmented risk prompts; clearer offline cues.
+Objectives: assess perceived usability, confidence/security, consistency; identify issues and suggestions. Note small sample size (n=4).
+Participants & settings: 4 non‑team users; tests conducted in a quiet room and a noisier corridor; included weak/absent‑network trials.
+Tasks: brief emotion check and empathetic chat; breathing exercise and 5‑4‑3‑2‑1 grounding; trigger risk/SOS flow; verify offline availability.
+Demographics: age 21–23; gender 3 female, 1 male; war/disaster experience—3 none, 1 indirect (knows people affected); all have prior chatbot/AI experience.
+Findings (Likert, 1–5):
+Ease of use, confidence, security: ≈3.3 (moderately positive)
+Inconsistency: ≈2.0 (low perceived inconsistency)
+Frequent use, learnability: ≈3.0 (neutral)
+Key issues:
+Scrolling disrupts flow → need auto‑scroll/smoother chat history
+Breathing prompts feel repetitive → increase variety
+Language settings should apply app‑wide, not just chatbot
+Voice agent tone to be softer; TTS needs slower speed and repeat
+ASR degrades in noise → offer text input as primary in noisy contexts
+Optional chatbot personalities (e.g., calmer/energetic) suggested
+Insights: Overall satisfaction with core functionality; users see clear potential but expect better personalization, smoother UX, and stronger reliability (especially under noise and weak network) to build trust and comfort.
 
 ## Usability Testing — My Contribution
 
