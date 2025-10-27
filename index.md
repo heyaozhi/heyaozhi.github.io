@@ -117,6 +117,19 @@ Other Contributions
 
 Built the presentation PPT structure and contributed part of the slide content.
 
+Reflection
+
+What worked: Short–slow–step-by-step dialogue plus breathing/grounding effectively reduced cognitive load; offline packs and clear source labeling increased trust. Usability tests confirmed the need for slower TTS, consistent labels, and text input in noise.
+
+What we learned: In high-stress contexts, safety, privacy, and clarity outrank feature richness. Empathy work must be continuous—interview insights directly shaped crisis triage and escalation wording. Offline-first design is not optional in disaster scenarios.
+
+Challenges: Balancing empathetic tone with precise safety prompts; maintaining multilingual consistency; handling ASR degradation under noise while keeping flows simple.
+
+Changes made: Standardized buttons/wording; added repeat/slow TTS controls; segmented risk prompts with “more/later”; clearer offline availability cues.
+
+Next focus: Deeper cultural adaptation, more robust offline resources, and tighter integration with volunteer workflows to support real-world pilots.
+
+Personal note: Contributing to the questionnaire design clarified which signals truly matter for users under stress, and structuring the PPT helped align the narrative around human-centric goals and verifiable guidance.
 
 
 
