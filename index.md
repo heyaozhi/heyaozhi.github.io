@@ -94,7 +94,7 @@ Testing and iteration: invited 4 non-team users for usability trials; collected 
 
 Prototype — My Personal Contribution
 
-Literature review: searched and organized research on trauma-informed care, effectiveness of breathing and grounding exercises, crisis intervention, and digital mental health to support scripts and risk messaging.
+
 Offline implementation: implemented an offline model and resource pack that runs without internet; ensured core conversations and exercises remain usable during disconnection, and completed related testing and demo.
 
 Usability Testing — Team Overview
