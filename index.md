@@ -1,156 +1,190 @@
-# Diary 2 – Human-Robot Interaction for Disaster Management
+# COMP4461 Project 3 Personal Diary – EverPresence (Social XR for Long-Distance Couples)
 
-HUMAN-ROBOT INTERACTION FOR WAR AFFECTED COMMUNITIE
+## 1. Project Overview and My Role
 
-Group 5 
- Hei Ching IU
- Poon Tsz Hang
- Wing Yu Chan
- Yuhua Zhao
- Yicheng Fen
+In Project 3, our team was tasked with designing a social extended reality (XR) solution for a specific local community. After several rounds of discussion and needfinding, we chose to focus on long-distance couples, especially university students in Hong Kong who are separated due to exchange, work, or migration. Our final concept, “EverPresence”, is an XR-based asynchronous virtual shared home that helps long-distance couples maintain emotional connection through a shared virtual space, joint activities, and AR/VR interactions.
 
-## Section: Project Overview
+My main responsibilities in this project were:
+- Conducting background research and searching relevant literature;
+- Collecting statistics and factual data to justify our target community;
+- Proposing the core topic of “supporting long-distance couples” and contributing multiple design ideas;
+- Leading the construction of the POV (Point of View) statement and creating user profiles based on teammates’ interview data;
+- Participating in brainstorming and drawing one AR-related storyboard;
+- Recruiting and organizing a user testing session with a PhD student and collecting feedback;
+- Designing and producing several slides for the final presentation;
+- Using AI tools to provide design suggestions and generate some image assets.
 
-Project Theme
+## 2. Design Process and My Contributions
 
-We built an AI assistant for emotional support in disaster/war-time scenarios, helping affected people receive immediate calming guidance and safety tips amid high stress and information chaos.
+### 2.1 Needfinding and Topic Justification
 
-Use Scenarios and Users Scenarios: 
-shelters, temporary housing sites, community relief stations.
+At the beginning of the project, we needed to identify a local community that could benefit from social XR. To support this decision, I took the initiative to:
 
-Users: affected individuals and families; volunteers act as referral and supervision roles.
+- Search literature and online resources related to:
+  - The prevalence of long-distance relationships among university students;
+  - Emotional challenges caused by physical separation, such as loneliness and difficulty in sharing daily life;
+  - Limitations of existing digital communication tools (video calls, instant messaging, social media) in providing a sense of presence and emotional support;
+- Collect relevant statistics, such as:
+  - The proportion of students experiencing long-distance relationships;
+  - How exchange programs, work opportunities, and migration in the Hong Kong context increase the number of long-distance couples;
+  - Evidence showing that current tools often fail to provide enough emotional closeness and shared context.
 
-Key Pain Points: High stress and fear lead to emotional dysregulation and communication difficulties.
-Volunteers lack consistent, sustainable calming scripts and processes.
-Language and accessibility barriers; weak network conditions are common.
+These data helped us justify that:
+- Long-distance couples form a real and sizable community with specific emotional and practical needs;
+- Traditional communication tools (video calls, text chat) have clear gaps in deeper emotional support;
+- There is meaningful potential for social XR to create stronger co-presence and shared spaces.
 
-Solution Voice/text conversational emotional-support AI:
-Empathic dialogue plus breathing and grounding exercises to aid self-regulation.
-Safety reminders and help-seeking pathways, with escalation to human hotlines/on-site volunteers when needed.
-Multilingual, low cognitive-load interaction; key flows work under weak network/offline.
-Sensitive content is auto-deescalated; all guidance shows source and last update time.
+### 2.2 Topic Selection and Early Ideation
 
-Current Progress and Outcomes: 
-Running prototype implemented: empathic opening, calming exercises, help routing, and error fallbacks.
-Demo video covers three scenarios: panic relief, nighttime anxiety/insomnia, and finding help.
-Initial testing feedback: natural tone and clear steps; terminology and wait time have been refined.
+During the topic selection phase, our team considered several communities and scenarios, such as:
+- Interest-based communities;
+- Residents in the same building;
+- Other groups that might benefit from social support.
 
-Next Steps: 
-Strengthen offline and multilingual support, improve crisis triage and human escalation, and integrate with volunteer workflows for small-scale pilots.
+Throughout these discussions, I actively contributed ideas and eventually proposed the direction of “using social XR to help long-distance couples maintain their relationship”. I supported this proposal with the following reasons:
+- Long-distance relationships are very common among university students;
+- Emotional intimacy is strongly related to a sense of presence, which is exactly what XR can enhance;
+- The scenario is highly relatable for many potential users, making it easier to empathize with them and recruit participants.
 
+Within this theme, I also suggested multiple design concepts, for example:
+- Using XR to simulate shared everyday routines (e.g., having a virtual dinner together);
+- Creating virtual objects such as gifts, notes, or shared memory items that can be kept in the virtual space;
+- Bringing a partner’s “traces” into the physical environment via AR, so that the other person can still feel their presence even when they are not online.
 
+Although not all ideas were fully implemented in the prototype, these early contributions helped shape “EverPresence” as a combined VR + AR solution that supports asynchronous interaction in a shared virtual home.
 
-## Empathize — Project Overview Section
+### 2.3 POV Construction and User Profiles
 
-Overview
-Based on interviews and online research from our presentation, we focus on emotional support and information accessibility in disaster/war contexts: under high stress and uncertainty, users need timely, trustworthy, low-effort calming and clear next-step guidance.
+After my teammates conducted interviews with people in long-distance relationships, I was responsible for synthesizing the findings into a clear POV statement and user profiles.
 
-Key Points
+My work in this stage included:
+- Reading and summarizing interview notes, focusing on:
+  - Pain points: loneliness, time zone differences, lack of shared activities, high travel costs;
+  - Emotional needs: feeling cared for, feeling that the partner is “there”, and being able to create shared memories;
+  - Practical constraints: student budget, device availability, and time;
+- Based on this, constructing a clear POV that described:
+  - Who our users are (long-distance university couples);
+  - What their core needs are (maintaining emotional intimacy, sharing experiences, and feeling real presence);
+  - Why existing tools are not enough (they are mostly synchronous and 2D, and do not support ambient or asynchronous presence well).
 
-Increased mental health burden: anxiety and panic are frequent during and post-conflict; self-regulation is harder (from interviewees and literature).
-Safety and privacy concerns: strong desire for safe spaces alongside worries about tech security and data privacy.
-Scattered information sources: critical updates are unclear and fragmented, delaying decisions and help-seeking.
-Family separation and education disruption: intensify stress and hinder long-term recovery (from interviewees/literature).
-Weak connectivity and limited resources: unstable networks and logistic variability require brief, real-time, and offline-capable communication.
-Vulnerable groups: women and ethnic minorities show higher rates of depression/PTSD (literature).
+I also created user profiles based on the interview data, including:
+- Basic background (age, student status, etc.);
+- Reasons for long-distance (exchange, work, migration);
+- Daily communication habits (call frequency, texting, shared activities);
+- Key worries and pain points (e.g., drifting apart, miscommunication, lack of shared context).
 
-Design Principle (one sentence)
-Human-centered “short, slow, step-by-step” dialogue with breathing/grounding exercises, providing verifiable-source safety reminders and escalation pathways that work under weak network and privacy constraints.
+These POV and user profiles laid the foundation for subsequent ideation and helped us keep the design human-centered and grounded in real user needs.
 
-## Personal Contribution (Empathize)
+### 2.4 Storyboarding and AR Concept
 
-Conducted two user interviews: one participant in Ukraine and one in Syria.
-Designed the interview guide with targeted questions about emotional needs, information access, privacy concerns, and preferred interaction style under stress.
-Synthesized findings into concise themes (panic triggers, short/slow guidance preference, need for verifiable information and human escalation) to inform the dialogue flow and design principles.
+During ideation, we explored multiple directions, including:
+- A virtual VR shared space that serves as a “home” for couples;
+- Haptic feedback devices to simulate physical touch;
+- AR-based companions or virtual objects appearing in the real environment.
 
-## POV — Team Work Overview
+I participated in brainstorming and helped evaluate the pros and cons of each idea. To make our concepts more concrete, we created several storyboards for different scenarios.
 
-Defined three POV directions from user research:
-AI psychological-support agent (voice/text, offline-capable, cultural/age/language adaptation, risk detection/SOS).
-Calm dispatcher for step-by-step safety guidance with transparent information sources.
-Family searching/matching support with flexible follow-ups.
-Wrote one-sentence POV statements for each direction and ran speed-dating interviews to validate need and feasibility.
-Consolidated stakeholder feedback and selected Idea 1 (psychological-support agent) as the primary POV.
+My specific contribution here was:
+- Drawing one storyboard focusing on AR interactions, which illustrated:
+  - How one partner could leave AR notes or virtual objects in the other partner’s real environment;
+  - How the other partner would discover these items later, experiencing surprise and a feeling of being accompanied;
+  - How this interaction could be asynchronous, helping to alleviate time zone pressure.
 
-## POV — My Personal Contribution
+Through storyboarding, I helped the team:
+- Visualize abstract ideas as concrete, everyday usage scenarios;
+- Pay attention to emotional flow, not just functionality;
+- Prepare intuitive materials for speed dating evaluations with potential users.
 
-Participated in ideation for all three ideas and drafted the POV statements for Ideas 1–3.
-Conducted speed-dating interviews and captured insights; specifically synthesized feedback from a Ukrainian girl and a Syrian girl.
-Analyzed their needs (compassionate support, offline availability, cultural/language sensitivity, privacy/safety) and recommended adopting Idea 1 as the main POV.
+### 2.5 User Testing and Feedback Gathering
 
-## Prototype — Team Work Overview
+In the evaluation stage, we conducted qualitative user testing to understand how people perceived our concept and prototype. I was mainly responsible for recruiting and running a testing session with a PhD student.
 
-Scope and positioning: Built a vertical prototype around the primary POV “AI psychological-support agent,” ensuring core conversations and exercises run in real conditions; created lightweight demos for secondary POVs (safety guidance, child mode).
-Core interactions implemented:
-Conversation flow: emotion check (0–5 scale), empathetic responses, short prompts, confirmation-style interactions.
-Intervention exercises: guided breathing, grounding (5-4-3-2-1), self-soothing scripts; progress and completion prompts.
-Risk detection and safety: identify self-harm/extreme-risk keywords; auto-surface safety advice and SOS referral info.
-Multilingual and cultural adaptation: basic packs in Chinese/English/Arabic; polite forms and localized phrasing.
-Basic offline capability: preserve exercise scripts and emergency info cards when the network is down.
-Secondary feature demos:
-Safety guidance mode: step-by-step routes and shelter hints with transparent source labeling.
-Child mode prototype: gentle voice and short-command scripts, gamified breathing.
-Testing and iteration: invited 4 non-team users for usability trials; collected issues (speech pace, button placement, prompt consistency) and iterated dialogue and UI.
+My tasks included:
+- Contacting and inviting a PhD student who had relevant experience or interest in long-distance relationships and/or XR;
+- Explaining our concept and showing the prototype and related storyboards;
+- Guiding the participant through the scenario and asking open-ended questions, such as:
+  - “Which parts feel emotionally meaningful to you?”
+  - “What kinds of activities would you like to do in such a shared virtual space?”
+  - “Is there anything that feels awkward, unnatural, or hard to use?”
+- Carefully taking notes on the feedback, including:
+  - Comments on whether the interactions felt intuitive;
+  - Suggestions for improving asynchronous communication features;
+  - Opinions on the comfort, practicality, and realism of the XR solution.
 
-## Prototype — My Personal Contribution
+I then shared these insights with the team. We used them to refine the design and to extract design implications, which were later included in our final presentation.
 
+### 2.6 Presentation Preparation
 
-Offline implementation: implemented an offline model and resource pack that runs without internet; ensured core conversations and exercises remain usable during disconnection, and completed related testing and demo.
+Towards the end of the project, we needed to prepare an 8-minute presentation and a demo. I contributed mainly in the following ways:
 
-## Usability Testing — Team Overview
+- Designing and creating several slides, especially those related to:
+  - Statistics and needfinding results from my early research;
+  - The POV and user profiles that I constructed;
+  - The AR concept and storyboard I contributed to;
+- Making sure these slides clearly showed:
+  - Why we selected long-distance couples as our target community;
+  - The key insights from our user research;
+  - How our solution fits the broader theme of social XR and responds to real user needs.
 
-Objectives: assess perceived usability, confidence/security, consistency; identify issues and suggestions. Note small sample size (n=4).
-Participants & settings: 4 non‑team users; tests conducted in a quiet room and a noisier corridor; included weak/absent‑network trials.
-Tasks: brief emotion check and empathetic chat; breathing exercise and 5‑4‑3‑2‑1 grounding; trigger risk/SOS flow; verify offline availability.
-Demographics: age 21–23; gender 3 female, 1 male; war/disaster experience—3 none, 1 indirect (knows people affected); all have prior chatbot/AI experience.
-Findings (Likert, 1–5):
-Ease of use, confidence, security: ≈3.3 (moderately positive)
-Inconsistency: ≈2.0 (low perceived inconsistency)
-Frequent use, learnability: ≈3.0 (neutral)
-Key issues:
-Scrolling disrupts flow → need auto‑scroll/smoother chat history
-Breathing prompts feel repetitive → increase variety
-Language settings should apply app‑wide, not just chatbot
-Voice agent tone to be softer; TTS needs slower speed and repeat
-ASR degrades in noise → offer text input as primary in noisy contexts
-Optional chatbot personalities (e.g., calmer/energetic) suggested
-Insights: Overall satisfaction with core functionality; users see clear potential but expect better personalization, smoother UX, and stronger reliability (especially under noise and weak network) to build trust and comfort.
+Although I did not present all parts during the in-class session, my work on content structure and visual presentation helped make the overall narrative more coherent, logical, and persuasive.
 
-## Usability Testing — My Contribution
+## 3. Reflection on My Learning
 
-Participated in designing the questionnaire (survey item creation).
+This project was a very valuable learning experience for me in several aspects:
 
-## AI Usage Statement
+- From “this feels reasonable” to “this is supported by evidence”:  
+  At first, “long-distance couples” felt like a natural topic, but through literature search and data collection, I learned how to justify a design direction with evidence. This made our project more convincing and improved my ability to connect academic research with practical design.
 
-AI tools were used in this project to assist with idea refinement, wording of dialogue scripts, and summarizing testing feedback. Some content (text prompts and draft copies) was AI-generated and then reviewed/edited by the team.
+- Synthesizing interviews into POV:  
+  When constructing the POV and user profiles, I went beyond simply recording what users said. I needed to distill: What is the core problem? What are the underlying needs? This strengthened my skills in synthesis and abstraction, and deepened my understanding of human-centered design.
 
-## Other Contributions
+- Using storyboards to tell a story:  
+  Drawing the AR storyboard made me realize the power of visualization in conveying scenarios and emotions. I had to think about where the user is, what they see, what they do, how they feel, and how interactions unfold step by step.
 
-Proposed many ideas during various group discussions. Built the presentation PPT structure and contributed part of the slide content.
+- Communicating with “expert-type” participants:  
+  Recruiting and interviewing a PhD student was a new experience. I needed to explain the concept clearly while also handling more critical and structured feedback. This improved my communication skills with participants from different backgrounds.
 
-## Reflection
+- Role recognition and teamwork:  
+  In this project, my role focused more on early research, POV construction, and visual/presentation content, rather than on programming the prototype. This helped me recognize my strengths in analysis and conceptual design and understand that an XR project depends on collaboration between different roles.
 
-What worked: Short–slow–step-by-step dialogue plus breathing/grounding effectively reduced cognitive load; offline packs and clear source labeling increased trust. Usability tests confirmed the need for slower TTS, consistent labels, and text input in noise.
+## 4. Reflection on AI Usage
 
-What we learned: In high-stress contexts, safety, privacy, and clarity outrank feature richness. Empathy work must be continuous—interview insights directly shaped crisis triage and escalation wording. Offline-first design is not optional in disaster scenarios.
+Our team also used AI tools in this project, mainly in the following ways:
 
-Challenges: Balancing empathetic tone with precise safety prompts; maintaining multilingual consistency; handling ASR degradation under noise while keeping flows simple.
+- Idea generation:  
+  We used large language models to:
+  - Help brainstorm more XR features and interaction patterns;
+  - Explore alternative ways to support long-distance couples beyond our initial ideas.
 
-Changes made: Standardized buttons/wording; added repeat/slow TTS controls; segmented risk prompts with “more/later”; clearer offline availability cues.
+  AI was helpful in quickly generating diverse possibilities, but not all suggestions were feasible or suitable. We still needed to filter and adapt them based on user needs and real-world constraints.
 
-Next focus: Deeper cultural adaptation, more robust offline resources, and tighter integration with volunteer workflows to support real-world pilots.
+- Image generation:  
+  We used image-generation tools to:
+  - Produce illustrative images for our prototype and slides;
+  - Visualize scenes that would be time-consuming to create manually.
 
-Personal note: Contributing to the questionnaire design clarified which signals truly matter for users under stress, and structuring the PPT helped align the narrative around human-centric goals and verifiable guidance.
+  These images made our presentation more vivid and intuitive, but we had to pay attention to consistency and clarity, and sometimes we adjusted or combined AI-generated results with our own designs.
 
+- Personal learning:  
+  Through this experience, I realized that:
+  - AI is a useful assistant for creativity and visualization, but it cannot replace real user research and design judgment;
+  - Final design decisions must still be grounded in our understanding of actual users and contexts, rather than relying solely on AI suggestions.
 
+I also used AI as a writing assistant while drafting this diary, mainly for organizing structure and polishing language. The experiences, facts, and reflections, however, are based on my own work in Project 3.
 
+## 5. Conclusion
 
+Overall, Project 3 allowed me to go through a relatively complete social XR design process: from needfinding and topic selection, to ideation and prototyping, and finally to user testing and presentation. My main contributions were in early research, POV construction, storyboard design, user testing, and presentation preparation.
 
+Through this project, I gained:
+- A deeper understanding of the challenges faced by long-distance couples;
+- Practical experience integrating literature, interview data, and design methods;
+- Improved skills in visual communication, user research, and reflective thinking;
+- A clearer and more critical view of the role of AI in the design process.
 
+If I had more time, I would like to:
+- Recruit more actual long-distance couples for testing to increase sample diversity;
+- Build a more complete and interactive VR + AR prototype;
+- Explore accessibility, long-term user experience, and iterative improvement in greater depth.
 
-
-
-
-
-
-
+This Project 3 experience strengthened my interest in designing technologies that support emotional and social needs, and showed me the potential of XR to connect people who are physically apart.
