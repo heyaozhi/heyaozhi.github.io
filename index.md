@@ -9,8 +9,6 @@ Group 5
  Yuhua Zhao
  Yicheng Fen
 
- heyaozhi.github.io
-
 ## Section: Project Overview
 
 Project Theme
